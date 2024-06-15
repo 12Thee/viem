@@ -371,6 +371,7 @@ test('exports', () => {
       "toEventHash",
       "toFunctionHash",
       "hashMessage",
+      "toPrefixedMessage",
       "isAddress",
       "isAddressEqual",
       "isBytes",
